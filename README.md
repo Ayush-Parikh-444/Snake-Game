@@ -12,7 +12,7 @@
 
 **Usage:**
 
-- Run the exe file (command line application).
+- Run the Project.exe file (command line application).
 - Game Controls: 
   - WASD for movement.
   - SPACE to exit.
